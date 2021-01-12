@@ -1,1 +1,5 @@
 # TEXTTOSPEACH
+
+export GOOGLE_APPLICATION_CREDENTIALS=/Users/xxxxx/.../GOOGLE-CREDENTIALS.json
+
+python3 command.py
